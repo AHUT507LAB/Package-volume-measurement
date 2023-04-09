@@ -29,6 +29,4 @@ https://user-images.githubusercontent.com/85088116/230749938-2a09a00d-d038-4e99-
 ```
 Measurement of package volume on the workbench
 ```
-https://user-images.githubusercontent.com/85088116/230751345-5743ff8c-9ea6-476a-8947-6e1da8b06bf5.mp4
-
-
+https://user-images.githubusercontent.com/85088116/230751973-b5b1a678-e201-494c-a9c6-12acc213551d.mp4
